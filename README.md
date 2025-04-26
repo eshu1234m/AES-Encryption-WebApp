@@ -49,6 +49,7 @@ pip install flask pycryptodome
 ```bash
 git clone https://github.com/eshu1234m/AES-Encryption-WebApp.git
 cd AES-Encryption-WebApp
+cd aes_web_app
 ```
 2.Install dependencies:
 ```bash
