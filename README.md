@@ -16,7 +16,11 @@ A simple web-based tool for AES encryption and decryption using Python (Flask), 
 
 ## 📷 Screenshots
 
-> Add screenshots of your web app here!
+### 🔒 Encryption Output View
+![Encryption Screenshot](aes_web_app/assets/Screenshot%202025-04-26%20110559.png)
+
+### 🔒 Decryption Output View
+![Decryption Screenshot](aes_web_app/assets/Screenshot%202025-04-26%20110640.png)
 
 ---
 
